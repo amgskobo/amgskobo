@@ -3,9 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=amgskobo&label=Views&color=0e75b6&style=flat)
 
 ## 自己紹介 / About Me / 关于我
-- 雨傘工房として、自作キーボードを中心に、独自の入力デバイスや周辺ツールの開発を行っています。キーボードの設計からファームウェアの実装、組み立てキットの制作まで一貫して手がけています。
-- As "Amagasa Kobo" (Umbrella Factory), I focus on custom mechanical keyboards, developing unique input devices and peripheral tools. From keyboard design and firmware implementation to assembly kit production, I handle the entire development process.
-- 作为“雨伞工房”，专注于客制化机械键盘，开发独特的输入设备及周边工具。从键盘设计、固件实现到组装套件制作，全程参与开发。
+- 雨傘工房として、自作キーボードを中心に、独自の入力デバイスや周辺ツールの開発を行っています。キーボードの設計からファームウェアの実装、組み立てキットの制作まで一貫して手がけています。As "Amagasa Kobo" (Umbrella Factory), I focus on custom mechanical keyboards, developing unique input devices and peripheral tools. From keyboard design and firmware implementation to assembly kit production, I handle the entire development process.作为“雨伞工房”，专注于客制化机械键盘，开发独特的输入设备及周边工具。从键盘设计、固件实现到组装套件制作，全程参与开发。
 
 
 
