@@ -8,9 +8,9 @@
 
 
 ## ブログ / Blog / 博客
-- [超小型エアマウスを作ってみた (AZ1UBALL編)](https://note.com/amgskobo/n/n39ae0e2d3ca7) - ZMKとの出会いと自作挑戦記 / ZMK encounter and custom device building journey / 与ZMK结缘及自制设备挑战记 (2025-09-30)
-
 - [ZMKでバッテリー残量を実際のバッテリー電圧に合わせる](https://note.com/amgskobo/n/naa46139e9779) - バッテリー電圧の調整方法 / How to adjust battery voltage in ZMK / 在ZMK中调整电池电压的方法 (2025-10-11)
+
+- [超小型エアマウスを作ってみた (AZ1UBALL編)](https://note.com/amgskobo/n/n39ae0e2d3ca7) - ZMKとの出会いと自作挑戦記 / ZMK encounter and custom device building journey / 与ZMK结缘及自制设备挑战记 (2025-09-30)
 
 ## ツール・ライブラリ / Tools & Libraries / 工具与库
 - [zmk-input-matrix](https://github.com/amgskobo/zmk-input-matrix) - 絶対トラックパッド座標を設定可能なジェスチャーグリッドに変換するZMK入力プロセッサ（長押し・ZMK Studio対応、Zephyr 4.1互換） / ZMK input processor converting absolute trackpad coordinates to configurable gesture grid (long-press & ZMK Studio support, Zephyr 4.1 compatible) / 将绝对轨迹板坐标转换为可配置手势网格的ZMK输入处理器（支持长按和ZMK Studio，兼容Zephyr 4.1）
@@ -21,5 +21,8 @@
 
 ## プロジェクト / Projects / 项目
 - [fuwat-mouse-az1u](https://github.com/amgskobo/fuwat-mouse-az1u) - AZ1UBALLトラックボール搭載の小型エアマウス「Fuwat Mouse」 / Fuwat Mouse: a small air mouse with AZ1UBALL trackball / Fuwat Mouse：搭载AZ1UBALL轨迹球的小型空中鼠标
+
+## アプリ / Apps / 应用
+- [keyket2026photo](https://keyket2026photo.netlify.app) ([keyket 2026公式](https://keyket.jp/)) - keyketのフォトアルバム。現地参加できなかった方のために作成 / keyket photo album (keyket 2026 official: https://keyket.jp/) / keyket相册，为未能现场参加活动的朋友制作（keyket 2026官方：https://keyket.jp/）
 
 
